@@ -7,7 +7,8 @@
 | :-----------: |:-------------:|
 | [Getting Ready to Build Robots with ROS!](https://www.youtube.com/playlist?list=PLunhqkrRNRhYYCaSTVP-qJnyUPkTxJnBt)     | SOFTWARE |
 | [Building a Mobile Robot](https://www.youtube.com/playlist?list=PLunhqkrRNRhYAffV8JDiFOatQXuU-NnxT)   | HARDWARE      | 
-|[Robot Operating System](https://www.youtube.com/playlist?list=PLlqdnFs9xNwql5KET7v7zyl393y10qxtw)|ROS Structure & SLAM & NAVIGATION|  
+|[Robot Operating System](https://www.youtube.com/playlist?list=PLlqdnFs9xNwql5KET7v7zyl393y10qxtw)|ROS Structure & SLAM & NAVIGATION| 
+|[Robot Step By step](https://www.youtube.com/@stepbystep-robotics6881/videos)|HARDWARE & SOFTWARE|  
 | [ROS Tutorials](https://www.youtube.com/playlist?list=PLLgA_SIipbdw8LemIRy4NYtLvMRlyIDqn) | OpenCV & URDF & Python      |
 | [ROS Gazebo Tutorials - Arabic](https://www.youtube.com/playlist?list=PL0cxiXoTD1yprQ-KsUF50xGoGqx1strJ3) | SIMULATION|  
 |[Learn ROS with me](https://www.youtube.com/playlist?list=PLU9tksFlQRircAdEplrH9NMm4WtSA8yzi)|ROS ALL|
