@@ -24,4 +24,7 @@
 | [Robotics Stack Exchange](https://robotics.stackexchange.com/?newreg=9a8581f373434974bc77a2cc0fcf3362)| Community |
 | [Instructables](https://www.instructables.com/)| HARDWARE - Datasheet - Wiring - R&D |
 | [ROS Official](https://answers.ros.org/questions/)|Q&A ROS|
+| [The Robotics Back-End](https://roboticsbackend.com/)   | ROS - PI - Arduino |
+---
+### Books & References >> [Drive  Link!](https://drive.google.com/drive/folders/1IPACJHwPNQWp1Ib9TaKTMObuc1HYUFyQ?usp=sharing)
 
