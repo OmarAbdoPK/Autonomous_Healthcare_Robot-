@@ -32,6 +32,6 @@
 ### Mechanical Design :
 |version         | Link            |
 | :-------------: |:-------------:|
-|[V0.0](https://cad.onshape.com/documents/1f98bf4937e8cf46bbdabd6a/w/19ec34658f3698beabbe6079/e/cba2be96c1b5d8ee34d85441?renderMode=0&uiState=63e2ceb683fcce3891147025)|
-|[V0.1](https://cad.onshape.com/documents/aafdf8671fad837d1f531ef5/w/e9d04c7e62d185af8ecfb5ac/e/98f9211af0383e939ff1fbd2)|
+|[V0.0](https://cad.onshape.com/documents/1f98bf4937e8cf46bbdabd6a/w/19ec34658f3698beabbe6079/e/cba2be96c1b5d8ee34d85441?renderMode=0&uiState=63e2ceb683fcce3891147025)| Onshape Link |
+|[V0.1](https://cad.onshape.com/documents/aafdf8671fad837d1f531ef5/w/e9d04c7e62d185af8ecfb5ac/e/98f9211af0383e939ff1fbd2)| Onshape Link |
 
