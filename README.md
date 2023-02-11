@@ -33,4 +33,4 @@
 |Link         | Topic            |
 | :-------------: |:-------------:|
 |[V0.0](https://cad.onshape.com/documents/1f98bf4937e8cf46bbdabd6a/w/19ec34658f3698beabbe6079/e/cba2be96c1b5d8ee34d85441?renderMode=0&uiState=63e2ceb683fcce3891147025)| Design Version 0.0 |
-|[V0.1](https://cad.onshape.com/documents/aafdf8671fad837d1f531ef5/w/e9d04c7e62d185af8ecfb5ac/e/3bbb768691340a97f6861cd7?renderMode=0&uiState=63e550b5896f0b619e26c5d4)| Design Versio 0.1 |
+|[V0.1](https://cad.onshape.com/documents/d6447214a317be68a0d832b1/w/c7e800736a8d0d353631e653/e/ce9a4b5005ec7fe491234493)| Design Versio 0.1 |
