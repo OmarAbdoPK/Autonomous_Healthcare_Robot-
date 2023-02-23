@@ -37,3 +37,5 @@
 
 [V0.2](https://cad.onshape.com/documents/b4409ad07beef111d7cb583c/w/cfe970bbdb9d5d3df9a9ef74/e/09c195ea4587ba87e5693f97?renderMode=0&uiState=63f53e7a8969da5779a4f015)
 
+[V0.3](https://cad.onshape.com/documents/6771db860c19dcbb4f8b1af6/w/de10ad6262f315bdf98e5d7e/e/2863145c48e1d475ffdeaf65?renderMode=0&uiState=63f6a5eda8ebc43614530ed0)
+
